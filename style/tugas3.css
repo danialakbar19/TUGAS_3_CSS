@@ -1,0 +1,19 @@
+.paragrap1{
+  font-weight: 100;
+    border-top: solid;
+  background-color: orange;
+  border-bottom: solid;
+}
+.paragrap2{
+  font-weight: 100;
+  background-color: blue;
+}
+.paragrap3{
+  font-family: sans-serif;
+  border-style: groove;
+}
+.paragrap4{
+  font-family: fantasy;
+  background-color:grey;
+  border-top: solid;
+}
